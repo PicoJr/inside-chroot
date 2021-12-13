@@ -1,5 +1,7 @@
 # inside-chroot
 
+⚠️ After further testing it appears this technique is quite unreliable (e.g. it does not work with some earlier Docker versions). Use at your own risk.
+
 Detect if code is running inside a [chroot environment](https://en.wikipedia.org/wiki/Chroot).
 
 ## How does it work
